@@ -14,7 +14,7 @@ function App() {
   console.log(mealData);
   return (
     <div className="app-container">
-        <h1>React Meal Reciepts </h1>
+        <h1>Recette de cuisine fait en Reactjs </h1>
        <div className="search-input">
        <input
           className="input-search"
